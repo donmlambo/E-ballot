@@ -1,0 +1,34 @@
+{
+  "presidentialRaceTitle": "Presidential Race",
+  "presidentialRaceDescription": "President of the NUST SRC ",
+  "firstPartyBrief": "First Party Presidential Candidate ",
+  "secondPartyBrief": "Second Party Presidential Candidate",
+  "thirdPartyBrief": "Third Party Presidential Candidate",
+  "fourthPartyBrief": "Fourth Party Presidential Candidate",
+  "fifthPartyBrief": "Fifth Party Presidential Candidate",
+
+  "vicePresidentRaceTitle": "Vice Presidential Race",
+  "vicePresidentRaceDescription": "Vice President of the NUST SRC",
+  "vicefirstPartyBrief": "First Party Vice Presidential Candidate ",
+  "vicesecondPartyBrief": "Second Party Vice Presidential Candidate",
+  "vicethirdPartyBrief": "Third Party Vice Presidential Candidate",
+  "vicefourthPartyBrief": "Fourth Party Vice Presidential Candidate",
+  "vicefifthPartyBrief": "Fifth Party Vice Presidential Candidate",
+
+  "TreasurerGeneralRaceTitle": "Treasurer General Race",
+  "treasurerGeneralRaceDescription": "Treasurer General of the NUST SRC",
+  "treasurerGeneralfirstPartyBrief": "First Party Treasurer General Candidate ",
+  "treasurerGeneralsecondPartyBrief": "Second Party Treasurer General Candidate",
+  "treasurerGeneralthirdPartyBrief": "Third Party Treasurer General Candidate",
+  "treasurerGeneralfourthPartyBrief": "Fourth Party Treasurer General Candidate",
+  "treasurerGeneralfifthPartyBrief": "Fifth Party Treasurer General Candidate",
+
+  "SecretaryGeneralRaceTitle": "Secretary General Race",
+  "secretaryGeneralRaceDescription": "Secretary General of the NUST SRC",
+  "secretaryrGeneralfirstPartyBrief": "First Party Secretary General Candidate ",
+  "secretaryGeneralsecondPartyBrief": "Second Party Secretary General Candidate",
+  "secretaryGeneralthirdPartyBrief": "Third Party Secretary General Candidate",
+  "secretaryGeneralfourthPartyBrief": "Fourth Party Secretary General Candidate",
+  "secretaryGeneralfifthPartyBrief": "Fifth Party Secretary General Candidate"
+
+}

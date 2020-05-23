@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "myBallotExists",
+        "transactionLabel": "A test myBallotExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMyBallot",
+        "transactionLabel": "A test createMyBallot transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMyBallot",
+        "transactionLabel": "A test readMyBallot transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMyBallot",
+        "transactionLabel": "A test updateMyBallot transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMyBallot",
+        "transactionLabel": "A test deleteMyBallot transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
