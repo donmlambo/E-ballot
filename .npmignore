@@ -9,6 +9,7 @@ local_fabric
 test
 functionalTests
 Interface
+App
 
 # don't package config files
 .vscode
