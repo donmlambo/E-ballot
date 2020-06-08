@@ -4,7 +4,7 @@
 
 'use strict';
 
-const MyBallotContract = require('./lib/voterContract');
+const MyBallotContract = require('./lib/MainContract');
 
 module.exports.MyBallotContract = MyBallotContract;
 module.exports.contracts = [ MyBallotContract ];

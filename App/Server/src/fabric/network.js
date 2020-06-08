@@ -57,7 +57,7 @@ exports.connectToNetwork = async function (userName) {
 
         console.log('Connected to mychannel. ');
         // Get the contract we have installed on the peer
-        const contract = await network.getContract('Ballot_Vault');
+        const contract = await network.getContract('e-contract');
 
 
         let networkObj = {
@@ -158,10 +158,10 @@ exports.invoke = async function (networkObj, isQuery, func, args) {
     }
 };
 
-exports.registerVoter = async function (studentID, password, firstName, lastName) {
+exports.registerVoter = async function (firstName, lastName, studentID, password) {
 
 
-    if (!studentID || !password || !firstName || !lastName) {
+    if (!firstName || !lastName || !studentID || !password) {
         let response = {};
         response.error = 'Error! You need to fill all fields before you can register!';
         return response;

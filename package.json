@@ -1,6 +1,6 @@
 {
-  "name": "ballot_vault",
-  "version": "0.0.4",
+  "name": "e-contract",
+  "version": "0.0.6",
   "description": "My Smart Contract",
   "main": "index.js",
   "engines": {
@@ -14,12 +14,12 @@
     "start": "fabric-chaincode-node start"
   },
   "engineStrict": true,
-  "author": "John Doe",
+  "author": "Don Mlambo",
   "license": "Apache-2.0",
   "dependencies": {
     "axios": "^0.19.2",
     "fabric-contract-api": "^1.4.5",
-    "fabric-shim": "^1.4.5",
+    "fabric-shim": "^2.0.0-snapshot.124",
     "react-button": "^1.2.1",
     "react-router": "^3.2.6",
     "react-textfield": "0.0.6"

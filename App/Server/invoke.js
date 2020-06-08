@@ -47,7 +47,7 @@ async function queryAll() {
         const network = await gateway.getNetwork('mychannel');
 
         //connect to our insurance contract that has been installed / instantiated on IBM Blockchain Platform
-        const contract = await network.getContract('ballot_vault');
+        const contract = await network.getContract('e-contract');
         //submit transaction to the smart contract that is installed / instnatiated on the peers
         console.log('calling contract.evaluateTransaction, with args');
         response = await contract.submitTransaction('queryAll');
