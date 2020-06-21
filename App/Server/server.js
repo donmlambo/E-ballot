@@ -104,7 +104,7 @@ app.post('/castBallot', async (req, res) => {
     console.log(req.body);
     let args = [req.body];
 
-    let response = await network.invoke(networkObj, false, 'castVote', args);
+    let response = await network.invoke(networkObj, false, 'castVote', args.president, args.vicepresident, args.secretarygeneral, args.treasurergeneral);
     if (response.error) {
         res.send(response.error);
     } else {
