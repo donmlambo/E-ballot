@@ -10,10 +10,10 @@
   "author": "Don Mlambo",
   "license": "MIT",
   "dependencies": {
-    "concurrently": "^5.2.0",
+    "concurrently": "^6.2.2",
     "express": "^4.17.1",
     "cors": "^2.8.5",
-    "eslint": "^6.0.1",
+    "eslint": "^7.0.0",
     "fabric-ca-client": "~1.4.2",
     "fabric-client": "^1.4.3",
     "fabric-network": "~1.4.2",
