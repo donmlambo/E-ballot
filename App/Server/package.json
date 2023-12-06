@@ -15,8 +15,8 @@
     "cors": "^2.8.5",
     "eslint": "^6.0.1",
     "fabric-ca-client": "~1.4.2",
-    "fabric-client": "^1.4.3",
-    "fabric-network": "~1.4.2",
+    "fabric-client": "^1.4.11",
+    "fabric-network": "~1.4.11",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
