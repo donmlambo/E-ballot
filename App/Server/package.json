@@ -14,9 +14,9 @@
     "express": "^4.17.1",
     "cors": "^2.8.5",
     "eslint": "^6.0.1",
-    "fabric-ca-client": "~1.4.2",
+    "fabric-ca-client": "~2.1.0",
     "fabric-client": "^1.4.3",
-    "fabric-network": "~1.4.2",
+    "fabric-network": "~2.2.6",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
