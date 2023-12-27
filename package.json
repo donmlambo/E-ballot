@@ -17,7 +17,7 @@
   "author": "Don Mlambo",
   "license": "Apache-2.0",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.6.3",
     "fabric-contract-api": "^1.4.5",
     "fabric-shim": "^2.0.0-snapshot.124",
     "react-button": "^1.2.1",
