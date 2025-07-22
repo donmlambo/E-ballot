@@ -16,8 +16,8 @@
     "eslint": "^6.0.1",
     "fabric-ca-client": "~1.4.2",
     "fabric-client": "^1.4.3",
-    "fabric-network": "~1.4.2",
-    "morgan": "^1.10.0"
+    "fabric-network": "~2.2.6",
+    "morgan": "^1.10.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
